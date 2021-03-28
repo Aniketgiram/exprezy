@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "379447121042",
+    "firebase_url": "https://exprezy-18e3e.firebaseio.com",
+    "project_id": "exprezy-18e3e",
+    "storage_bucket": "exprezy-18e3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379447121042:android:eefd6a26f51266176b424b",
+        "android_client_info": {
+          "package_name": "com.admin.exprezy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379447121042-3gh0ibmj6rhjp8q6vij4ducdocjpnaoc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.admin.exprezy",
+            "certificate_hash": "c272f17334943b77072fdf61a66f2c5593e7458b"
+          }
+        },
+        {
+          "client_id": "379447121042-pcr6mb4ip1qo6keabv60g1m6q5cj4u0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXe34fEP02AadG8DAgNBbdMoshblTrCnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379447121042-pcr6mb4ip1qo6keabv60g1m6q5cj4u0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
